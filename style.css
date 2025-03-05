@@ -43,3 +43,21 @@ img{
 p{
     text-align: justify;
 }
+
+.back-logica{
+    background: url(./backlogica.jpg) no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+}
+
+.back-bases{
+    background: url(./bases_datos.jpg) no-repeat center center fixed;
+}
+
+.back-redes{
+    background: url(./redes.png) no-repeat center center fixed;
+}
+
+.h1-logica, .h2-logica{
+    color: white;
+}
