@@ -53,17 +53,17 @@ p{
 }
 
 .back-logica{
-    background: url(./logica2.jpeg) no-repeat center center fixed;
+    background: url(./images/logica2.jpeg) no-repeat center center fixed;
     background-size: cover;
 
 }
 
 .back-bases{
-    background: url(./bases_datos.jpg) no-repeat center center fixed;
+    background: url(./images/bases_datos.jpg) no-repeat center center fixed;
 }
 
 .back-redes{
-    background: url(./redes.png) no-repeat center center fixed;
+    background: url(./images/redes.png) no-repeat center center fixed;
 }
 
 .h1-logica, .h2-logica,.h3-logica, .ul-logica, .p-logica{
