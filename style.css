@@ -35,6 +35,14 @@ a:hover{
     color: #0056b3;
 }
 
+.regresar-logica{
+    color: blue;
+}
+
+.regresar-logica:hover{
+    color: black;
+}
+
 img{
     width: 80px;
     height: auto;
@@ -45,9 +53,9 @@ p{
 }
 
 .back-logica{
-    background: url(./backlogica.jpg) no-repeat center center fixed;
+    background: url(./logica2.jpeg) no-repeat center center fixed;
     background-size: cover;
-    color: white;
+
 }
 
 .back-bases{
@@ -58,6 +66,6 @@ p{
     background: url(./redes.png) no-repeat center center fixed;
 }
 
-.h1-logica, .h2-logica{
-    color: white;
+.h1-logica, .h2-logica,.h3-logica, .ul-logica, .p-logica{
+    color:white;
 }
